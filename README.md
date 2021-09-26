@@ -1,4 +1,7 @@
 # followingEnemyInUnity
+
+DISCLAIMER : No AI implied here, but I did this in another repo.
+
  Make an enemy that follows your player and rotates / flips on the X axis !
 
  1. Add a new sprite ot the scene (your enemy visuals).
